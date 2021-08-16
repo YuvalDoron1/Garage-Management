@@ -20,8 +20,8 @@ namespace Ex03.GarageLogic
             Five,
         }
 
-        private const float k_ElectricEnergyCapacity = 3.2f;
         private const float k_FuelEnergyCapacity = 45;
+        private const float k_ElectricEnergyCapacity = 3.2f;
         private const FuelEnergy.eFuelType k_FuelEnergyType = FuelEnergy.eFuelType.Octan95;
         private const float k_NumOfWheels = 4;
         private const float k_MaxAirPressure = 32;
